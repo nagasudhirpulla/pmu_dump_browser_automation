@@ -1,0 +1,6 @@
+{
+    "webDriverLocation": "location\\of\\driver.exe",
+    "loginLocation": "https://loginurl",
+    "username": "",
+    "password": ""
+}

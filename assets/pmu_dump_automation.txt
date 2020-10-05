@@ -1,0 +1,7 @@
+goto login location
+
+perform login
+
+click export menu -> PMU
+
+https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
